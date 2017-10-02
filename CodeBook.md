@@ -54,7 +54,7 @@ Were not loaded into the tidy data.
 
 ## Variable names
 
-The variable names are of the form "tbodyaccmeanx" "tBodyAcc.mean.X" which correspond to "tBodyAcc-mean()-X". It is important to note that this
+The variable names are of the form "tbodyaccmeanx" which correspond to "tBodyAcc-mean()-X". It is important to note that this
 variable name doesn't contain: 
 * dots
 * uppercase letters
