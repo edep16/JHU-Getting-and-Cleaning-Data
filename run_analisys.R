@@ -1,4 +1,5 @@
 library(plyr)
+#somo nonsensical comment
 #Obtain the names of the variables of the data 
 variable_names <- readLines("UCI HAR Dataset/features.txt")
 variable_names <- gsub("[0-9]([0-9][0-9])? ", "", variable_names)
